@@ -13,7 +13,8 @@ Prazo de entrega: 10/02/2020
 
 # CENÁRIO
  - Um cliente precisa criar um site para seu restaurante, ele precisa apenas de 3 telas.
-- Listagem de produtos
+- Home
+- Detalhes do produtos
 - Carrinho
 - Checkout
 
